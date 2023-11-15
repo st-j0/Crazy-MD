@@ -86,7 +86,7 @@ npm start
 ---
 <details>
 <summary>Licence</summary>
-<p dir="auto">Serizawa-Md est sous licence  GPL-3.</p>
+<p dir="auto">Crazy-MD est sous licence  GPL-3.</p>
 
 <h6 tabindex="-1" dir="auto"><a id="user-content-endpoint" class="anchor" aria-hidden="true" href="#extrait"></a>Extrait</h6>
 <p dir="auto"><code>GNU GENERAL PUBLIC LICENS
@@ -111,7 +111,7 @@ Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde 
 
 
 #### ```VUES DU PROFIL 🗨️```
-![Visitor Count](https://profile-counter.glitch.me/crazy237/Crazy-MD/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/crazy237/count.svg)
 
 <p align="center"> 
   <a aria-label="Support Group" href="[https://chat.whatsapp.com/CLTULUN0HQh9Ocp7RjEZG1](https://chat.whatsapp.com/CLTULUN0HQh9Ocp7RjEZG1)" target="_blank">
