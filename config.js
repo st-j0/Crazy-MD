@@ -16,7 +16,7 @@ const fs = require('fs-extra')
  global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4' 
  module.exports = { 
    botname:   process.env.BOT_NAME === undefined ? '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME, 
-   ownername: process.env.OWNER_NAME === undefined ? 'SamPandey001' : process.env.OWNER_NAME,  
+   ownername: process.env.OWNER_NAME === undefined ? 'St-j' : process.env.OWNER_NAME,  
    author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'SamPandey001' : process.env.PACK_INFO.split(";")[0], 
    auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS, 
    packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𝝤𝝥𝝦𝝨𝝩𝝪𝝫𝝬𝝭𝝮' : process.env.PACK_INFO.split(";")[1],
@@ -36,9 +36,9 @@ const fs = require('fs-extra')
    onlygroup: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
    antilinkaction: process.env.ANTILINK_ACTION === undefined ? 'delete' : process.env.ANTILINK_ACTION, 
    BRANCH: 'main',  
-   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? 'Hey,Je suis Crazy Prince 👑,\n jeune étudiant passionné du football, hacking, coding, lecture, musique et entrepreneuriat.\n<<Fais ce qu\'il te plaît jusquà ce que ça plaise aux autres et pas le contraire...>>\nHommage à Damso🖖\nVie sur nous\nRDV mai 2025♋\n©Profil Original & Vérifié®\n █│║▌║│█▌║▌│ ™ 𝐄𝐋 𝐂𝐔𝐁𝐀𝐍𝐎 𝐌𝐎𝐃𝐒 Officiel ◉' : process.env.ALIVE_MESSAGE, 
+   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? 'Hey,Je suis Ariel 👑,\n jeune étudiant passionné du football, hacking, coding, lecture, musique et entrepreneuriat.\n<<Fais ce qu\'il te plaît jusquà ce que ça plaise aux autres et pas le contraire...>>\nHommage à Damso🖖\nVie sur nous\nRDV mai 2025♋\n©Profil Original & Vérifié®\n █│║▌║│█▌║▌│ ™ 𝐄𝐋 𝐂𝐔𝐁𝐀𝐍𝐎 𝐌𝐎𝐃𝐒 Officiel ◉' : process.env.ALIVE_MESSAGE, 
    autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO, 
-   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY, 
+   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? true: process.env.OPENAI_API_KEY, 
    heroku:  process.env.heroku === undefined ? false : process.env.heroku, 
    HEROKU: { 
      HEROKU: process.env.HEROKU ||false, 
