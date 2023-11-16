@@ -56,7 +56,7 @@
 
 ## Déployer sur Heroku
  Si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
-<p> Remplacez `[username]` par votre nom d'utilisateur Github... 
+<p> Remplacez `username` par votre nom d'utilisateur Github... 
 </p>
 
 ```
