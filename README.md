@@ -4,8 +4,7 @@
 
 <p align="center">
 <img src="<p align="center">
-<img src="[https://github.com/crazy237/Crazy-MD/edit/main/crazyprince.gif" width="300" height="300"/>
-</p>" width="300" height="300"/>
+<img src="[crazyprince.gif" width="500" height="500"/>
 </p>
 
 
