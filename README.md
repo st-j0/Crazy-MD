@@ -1,6 +1,10 @@
 <p align="center"></h1> CRAZY-MD </h1><br> <p/>
 
-![banner](crazyprince.gif)
+<p align="center">
+<a href="https://github.com/Crazy237/Crazy-MD">
+    <img src="https://telegra.ph/file/fd596f5ef12b47b2e6607.jpg](https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4" width="400px">
+  </a>
+
 </p>
 
 <p align="center"> 
@@ -27,6 +31,9 @@
 [![GitHub license](https://img.shields.io/github/license/crazy237/Crazy-MD?color=brightgreen)](https://github.com/crazy237/Crazy-MD/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/crazy237/Crazy-MD)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/crazy237/Crazy-MD)](https://badges.pufler.dev)
+
+      Crazy-MD est un bot multi-fonctionnel Camerounais.   |  Crazy-MD is a multi-functional Cameroonian bot.
+
 
 #### FORK
 [`FORK`](https://github.com/Crazy237/Crazy-MD/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.
