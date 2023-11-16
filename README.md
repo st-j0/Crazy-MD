@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="<p align="center">
-<img src="[[crazyprince.gif](https://telegra.ph/file/e28bc04da8e18ad26b67a.jp)" width="500" height="500"/>
+<img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="500" height="500"/>
 </p>
 
 
