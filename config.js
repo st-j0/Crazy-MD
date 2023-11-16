@@ -13,7 +13,7 @@ const fs = require('fs-extra')
  global.sudo = process.env.SUDO || '237694268225' 
  global.devs = '237694268225'; 
  global.website = 'https://github.com/crazy237/Crazy-MD' //wa.me/+237000000000
- global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb6fb24558fcadcfad392.jpg' 
+ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4' 
  module.exports = { 
    botname:   process.env.BOT_NAME === undefined ? '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME, 
    ownername: process.env.OWNER_NAME === undefined ? 'SamPandey001' : process.env.OWNER_NAME,  
