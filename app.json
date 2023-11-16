@@ -1,0 +1,135 @@
+{ 
+   "name": "Crazy-MD", 
+   "description": "Bot Whatsapp MD multi-fonctionnel Camerounais codé en Node JS ", 
+   "logo": "https://telegra.ph/file/7368f97313879263327e9.jpg", 
+   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
+   "success_url": "/", 
+   "stack": "container", 
+ "env": { 
+   "OWNER_NAME": { 
+   "description": "Nom du Proprétaire du BOT", 
+       "value": "CRAZY_PRINCE" 
+   }, 
+   "ALIVE_MESSAGE": { 
+     "description": "Message Alive pour le BOT", 
+      "required" :true 
+     }, 
+     "SESSION_ID": {
+      "description": "Veuillez entrer votre SESSION_ID ici"
+    },
+     "AUTO_STATUS_SAVER": { 
+       "description": "Enregistreur de status automatique et envoie d'un message Log.", 
+        "required" :false 
+       }, 
+     "HEROKU_API_KEY": { 
+     "description": "Veuillez entrer votre HEROKU API KEY", 
+      "required" :true 
+     }, 
+   "HEROKU_APP_NAME": { 
+     "description": "Veuillez entrer votre HEROKU APP NAME comme suit (CRAZY_MD).", 
+      "required" :true 
+     }, 
+    "THUMB_IMAGE": { 
+     "description": "THUMBNAIL du BOT.", 
+      "value": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4" 
+     }, 
+     "ANTI_BAD_WORD": { 
+     "description": "Mets des mots interdit ici. Laissez le vide par défaut", 
+      "required" :false 
+     }, 
+    "ANTILINK_VALUES": { 
+     "description": "Entrer les liens antilink", 
+      "value": "chat.whatsapp.com,fb.com,instagram.com", 
+      "required" :false 
+     }, 
+      "ANTILINK_ACTION": { 
+     "description": "Entrez une action à antilink", 
+      "value": "delete", 
+      "required" :false 
+     }, 
+   "LEVEL_UP_MESSAGE": { 
+     "description": "Entrez (true) si vous voulez que le bot envoie le LEVEL_UP_MESSAGE dans les groupes.", 
+      "required" :false, 
+      "value": "true" 
+     }, 
+       "READ_MESSAGE": { 
+     "description": "Entrez la valeur (true) pour que le BOT lise tous les messages.", 
+      "required" :false, 
+      "value": "true" 
+     }, 
+    "DISABLE_PM": { 
+     "description": "Désactiver le BOT en Dm", 
+      "required" :false 
+     }, 
+       "PREFIX": { 
+   "description": "Entrez un préfixe pour exécuter les commandes.", 
+       "value": "🍀" 
+   }, 
+   "OWNER_NUMBER": { 
+     "description": "Le numéro du Sudo du BOT (sous format internationnal sans le + et séparé par des virgules pour plusieurs Sudo\",\") ⛔Ne modifiez pas le 237694268225", 
+        "value": "237694268225,237000000000" 
+   }, 
+     "OPENAI_API_KEY": { 
+     "description": "Veuillez entrer votre OPENAI api key ici.Allez sur beta.openai.com ", 
+        "value": "Non obligatoire", 
+        "required" :false 
+   }, 
+   "MONGODB_URI": { 
+     "description": "Veuillez fournir votre MONGODB_URI.(Requis),pour une expérience explicite", 
+     "required": false  
+   }, 
+     "THEME": { 
+     "description": "Entrez le théme que vous souhaitez utiliser. Les themès sont: CRAZY et pleins d'autres a venir..", 
+      "value": "CRAZY" 
+   }, 
+     "WORKTYPE": { 
+      "description": "Type d'usage. utilise public ou privé, si c'est privé uniquement les Sudo auront accès. En public c'est tout le monde.", 
+      "value": "private" 
+   },
+   "ONLY_GROUP":{
+   "description":"Fonctionne uniquement...",
+   "value":"false"
+   }, 
+       "AUTO_REACTION": { 
+     "description": "AUTO_REACTION avec des émojis à chaque commande.", 
+      "value": "true", 
+      "required": false  
+   }, 
+   "AUTO_BIO": { 
+    "description": "Bio automatique.", 
+     "value": "false", 
+     "required": false  
+  }, 
+    "ALWAYS_ONLINE": { 
+     "description": "Toujours en ligne sur Whatsapp.", 
+      "value": "true", 
+      "required": false  
+   },
+ "AUTO_READ_STATUS": { 
+     "description": "Vue de status automatique.", 
+      "value": "true", 
+      "required": false  
+   },
+ "AUTO_VOICE": { 
+     "description": "Envoie de message automatique.", 
+      "value": "true", 
+      "required": false  
+   },   
+   "PACK_INFO": { 
+     "description": "Entrez la légende des Stickers packname;authorname.", 
+      "value": "CRAZY_PRINCE,𝝤𝝥𝝦𝝨𝝩𝝪𝝫𝝬𝝭𝝮", 
+      "required": false  
+   }, 
+   "heroku": { 
+     "description": "Météo...", 
+      "value": "true", 
+      "required": false  
+   } 
+ }, 
+ "formation": { 
+                 "worker": { 
+                         "quantity": 1, 
+                         "size": "basic" 
+                 } 
+         } 
+ }

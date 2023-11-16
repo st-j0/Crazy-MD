@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "WASI TECH",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Your bot is already on latest version Sir*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!*"
+      },
+      "global": {
+          "botName": " Par CRAZY_PRINCE",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "Mr",
+          "pic1": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+          "pic2": "https://i.imgur.com/zGXn1T0.jpeg",
+          "pic3": "https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4",
+          "pic4": "https://telegra.ph/file/fb6fb24558fcadcfad392.jpg",
+          "pic5": "https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg",
+          "pic6": "https://i.imgur.com/3T4qIBI.jpeg",
+          "pic7": "https://i.imgur.com/zGXn1T0.jpeg",
+           "greet" : "Mr",
+         "dotbody" : "I'm Alive.",
+          "promote": "Promotion Détectée [ADMIN] @user",
+          "pmallow": "*Salut, je suis CRAZY_PRINCE*\n*Asssistant de mon Maitre.*\nMon maitre est occupé actu...\nVeuillez laisser un message.\n\n_Je lui informerais......_",
+          "pmblock": "❌ BlOQUE*\n\n Vous avez été bloqué pour spamming.\n\n *Developpé par CRAZY_PRINCE*",
+          "pmwarn": "🖖Hey* \nVeuiller vous comporter pour ne pas etre bloqué pour spamming. _Vous avez ${checkPermit.times} avertissement(s)._\n\n *Developpé par CRAZY_PRINCE*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Developpé par CRAZY_PRINCE*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Developpé par CRAZY_PRINCE_",
+          "demote": "Euh,Un [ADMIN] a été révoqué",
+          "antlink": "Lien Détecté.\n*Aurevoir mbro*",
+          "session": "\n*Bonjour 😊 ceci est votre session CRAZY_MD,ne le partagez pas et utiliser proprement*\n_Upload le fichier .json dans ton référentiel Crazy-MD sur github_\n Déploie ton BOT sur Heroku et il y restera permanement\n©Profil Original & Vérifié®\n █│║▌║│█▌║▌│ ™ 𝐄𝐋 𝐂𝐔𝐁𝐀𝐍𝐎 𝐌𝐎𝐃𝐒 Officiel ◉\n*Developpé par CRAZY_PRINCE*",
+          "mention": "Mentionnez un utilisateur, Mr",
+          "title": "CRAZY",
+          "footer": "CRAZY",
+          "by": "Made by: *CitelVoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "A tu besoin d'aide *(help?)*",
+          "couple_male": "*Jamais seul(e) tu t'en sortira...\nIl reste une place dans le corbillard\n*Developpé par CRAZY_PRINCE**",
+          "couple_female": "*Sans un ressentis de sécurité apportée on ne se considère femme...*",
+          "admin": "𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑒 𝑟é𝑠𝑒𝑟𝑣é𝑒 𝑎𝑢𝑥 𝑎𝑑𝑚𝑖𝑛𝑠 𝑑𝑢 𝑔𝑟𝑜𝑢𝑝𝑒⚠️!",
+          "botAdmin": "𝑁𝑜𝑚𝑚𝑒𝑧 𝑙𝑒 𝑏𝑜𝑡 𝑎𝑑𝑚𝑖𝑛 𝑆𝑉𝑃.❗",
+          "owner": "𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝗲 𝗿é𝘀𝗲𝗿𝘃é𝗲 à 𝗖𝗥𝗔𝗭𝗬_𝗣𝗥𝗜𝗡𝗖𝗘 ⚠️",
+          "group": "𝙛𝙤𝙣𝙘𝙩𝙞𝙤𝙣𝙣𝙖𝙡𝙞𝙩é 𝙙𝙞𝙨𝙥𝙤𝙣𝙞𝙗𝙡𝙚 𝙪𝙣𝙞𝙦𝙪𝙚𝙢𝙚𝙣𝙩 𝙚𝙣 𝙜𝙧𝙤𝙪𝙥𝙚❗",
+          "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "bot": "𝗖𝗲𝘁𝘁𝗲 𝗳𝗼𝗻𝗰𝘁𝗶𝗼𝗻𝗻𝗮𝗹𝗶𝘁é 𝗲𝘀𝘁 𝗿é𝘀𝗲𝗿𝘃é𝗲 𝘂𝗻𝗶𝗾𝘂𝗲𝗺𝗲𝗻𝘁 à 𝗖𝗥𝗔𝗭𝗬 𝗣𝗥𝗜𝗡𝗖𝗘⚠️",
+          "wait": "𝑷𝒂𝒕𝒊𝒆𝒏𝒕𝒆𝒛 𝑺𝑽𝑷 ! ⌛" 
+      },
+      "error": {
+          "text": "*ERROR 404 💔*"
+      }
+  }
+}
