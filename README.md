@@ -3,7 +3,9 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+<img src="<p align="center">
+<img src="[https://github.com/crazy237/Crazy-MD/edit/main/crazyprince.gif" width="300" height="300"/>
+</p>" width="300" height="300"/>
 </p>
 
 
