@@ -56,7 +56,7 @@
 
 ## Déployer sur Heroku
  Si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
-<p> Completez ce lien par le lien de votre Repository Fourché... 
+<p> Remplacez `[username]` par votre nom d'utilisateur Github... 
 </p>
 
 ```
