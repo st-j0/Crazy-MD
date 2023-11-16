@@ -45,7 +45,7 @@
 [`FORK`](https://github.com/Crazy237/Crazy-MD/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.
 
 #### QR CODE
-***Obtenir la [`SESSION ID 1(soon)`](https://repli.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2()soon`](https://repli.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
+***Obtenir la [`SESSION ID 1`](https://replit.com/@Itxxwasi/THE-DARK-CREATOR), [`SESSION ID 2 (plutard)soon`](https://repli.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
 
     
 <span style="color=orange;">**⚠️ Warning**</span>
@@ -133,6 +133,7 @@ Obtiens le Mongodb_URI via [`Site Mongodb`](https://www.mongodb.com/) | Regarde 
 
 #### Remerciements :
 - [**CRAZY_237 👑**](https://github.com/CrazyPrince) pour rien
+- [**Itxxwasi**](https://github.com/Itxxwasi) for the session Qr
 - [**Keen~v**](https://github.com/Kenvofc) pour l'idée originelle
 - [**Vatante**](https://github.com/Vatante24) le fainéant
 
