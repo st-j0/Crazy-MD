@@ -1,11 +1,11 @@
 <div align="center">
-    👑<b>♣️CRAZY-MD♣️</b>👑</b>
+    👑<b>♣️𝐂𝐑𝐀𝐙𝐘-𝐌𝐃♣️</b>👑</b>
 </div>
 
 
 
 <p align="center">
-<img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="500" height="500"/>
+<img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="350" height="350"/>
 </p>
 
 
@@ -58,7 +58,7 @@
 </p>
 
 ```
-https://dashboard.heroku.com/new?template=https://github.com/username/Crazy-MD&template=https://github.com/username/Crazy-MD.git
+https://dashboard.heroku.com/new?template=https://github.com/username/crazy237/Crazy-MD&template=https://github.com/username/crazy237/Crazy-MD.git
 ```
 ---
 <details>
