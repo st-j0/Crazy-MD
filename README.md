@@ -3,9 +3,8 @@
 
 
 <p align="center">
-<a href="https://github.com/Crazy237/Crazy-MD">
-    <img src="[https://telegra.ph/file/fd596f5ef12b47b2e6607.jpg](https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4](https://github.com/crazy237/Crazy-MD/blob/main/crazyprince.gif)" width="400px">
-  </a>
+<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+</p>
 
 
 
