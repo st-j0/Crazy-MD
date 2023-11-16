@@ -1,7 +1,7 @@
 { 
    "name": "Crazy-MD", 
    "description": "Bot Whatsapp MD multi-fonctionnel Camerounais codé en Node JS ", 
-   "logo": "https://telegra.ph/file/7368f97313879263327e9.jpg", 
+   "logo": "https://i.imgur.com/h22WpvQ.jpeg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
