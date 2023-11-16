@@ -102,7 +102,7 @@
   }, 
     "ALWAYS_ONLINE": { 
      "description": "Toujours en ligne sur Whatsapp.", 
-      "value": "true", 
+      "value": "false", 
       "required": false  
    },
  "AUTO_READ_STATUS": { 
