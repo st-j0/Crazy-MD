@@ -1,11 +1,12 @@
 <div align="center">
     👑<b>🌐♣️CRAZY-MD♣️</b>👑</b>
-
+<div align="center">
+</p>
 
 
 <p align="center">
 <img src="<p align="center">
-<img src="https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4" width="500" height="500"/>
+<img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="500" height="500"/>
 </p>
 
 
