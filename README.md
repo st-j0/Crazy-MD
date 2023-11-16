@@ -45,7 +45,7 @@
 [`FORK`](https://github.com/Crazy237/Crazy-MD/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.
 
 #### QR CODE
-***Obtenir la [`SESSION ID 1`](https://replit.com/@Itxxwasi/THE-DARK-CREATOR), [`SESSION ID 2 (plutard)soon`](https://repli.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
+***Obtenir la [`SESSION ID (plutard)soon 1`](https://repli.com/@Itxxwasi/THE-DARK-CREATOR), [`SESSION ID 2 (plutard)soon`](https://repli.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
 
     
 <span style="color=orange;">**⚠️ Warning**</span>
