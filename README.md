@@ -1,15 +1,15 @@
-<p align="center"></h1> CRAZY-MD </h1><br> <p/>
+<div align="center">
+    👑<b>🌐♣️CRAZY-MD♣️</b>👑</b>
 
 
 
 <p align="center">
 <img src="<p align="center">
-<img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="500" height="500"/>
+<img src="https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4" width="500" height="500"/>
 </p>
 
 
 
-</p>
 
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
