@@ -1,13 +1,13 @@
 <div align="center">
-    👑<b>🌐♣️CRAZY-MD♣️</b>👑</b>
+    👑<b>♣️CRAZY-MD♣️</b>👑</b>
 <div align="center">
 </p>
 
 
-<p align="center">
+
 <img src="<p align="center">
 <img src="https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg" width="500" height="500"/>
-</p>
+
 
 
 
@@ -44,7 +44,7 @@
 [`FORK`](https://github.com/Crazy237/Crazy-MD/fork) et mets une `Etoile ⭐ Favoris` pour déployer plutard.
 
 #### QR CODE
-***Obtenir la [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
+***Obtenir la [`SESSION ID 1(soon)`](https://repli.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2()soon`](https://repli.com/@SuhailTechInfo/Secktor-Bot?v=1) en scannant le QR Code `Aller sur WhatsApp>3 points>Appareils connectés`***
 
     
 <span style="color=orange;">**⚠️ Warning**</span>
@@ -59,7 +59,7 @@
 </p>
 
 ```
-https://dashboard.heroku.com/new?template=
+https://dashboard.heroku.com/new?template=https://github.com/username/Crazy-MD&template=https://github.com/username/Crazy-MD.git
 ```
 ---
 <details>
